@@ -26,6 +26,6 @@
 ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robotupdatestatus.png)
 表示机器人有新版本待更新
 ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robotunconnectedstatus.png)
-表示机器人为获得许可
+表示机器人未获得许可
 ![robot](https://docimages.blob.core.chinacloudapi.cn/images/Robot/robotcommonstatus.png)
 表示机器人正常连接状态
